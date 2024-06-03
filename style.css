@@ -30,3 +30,37 @@ tbody > tr > td {
     border: 1px solid #fff;
     padding: 10px;
 }
+
+/* media Queries */
+
+@media screen and (max-width: 680px) {
+    .container {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    body {
+        font-size: 25px;
+    }
+
+    .container {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    body {
+        font-size: 25px;
+    }
+
+    .container {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 882px) {
+    .container {
+        width: 70%;
+    }
+}
