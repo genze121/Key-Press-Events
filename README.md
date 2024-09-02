@@ -8,3 +8,7 @@
 ## 🖼️ Screenshot - 2
 
 ![Keyboard Event 2](https://github.com/genze121/Key-Press-Events/assets/45147588/d130df69-7795-4826-abcc-c64590429033)
+
+----
+
+Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
